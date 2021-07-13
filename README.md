@@ -1,2 +1,2 @@
-# CompSciFMasters
+# algorithms-exercises
 Created with CodeSandbox
